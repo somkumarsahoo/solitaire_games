@@ -1,2 +1,2 @@
-# algorithms
-Various types of boiler-plate logic codes I have implemented &amp; optimized time to time
+# solitaire_games
+Various interesting single player games in python
